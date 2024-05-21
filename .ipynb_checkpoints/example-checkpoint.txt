@@ -1,0 +1,1 @@
+Python. in file a to write to code a WriteNew content to append to the file.Appending content to the file using buffered writing.
